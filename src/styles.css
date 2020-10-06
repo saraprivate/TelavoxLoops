@@ -1,0 +1,22 @@
+.box-wrapper {
+  padding: 20%;
+}
+
+.box {
+  height: 30px;
+  width: 30px;
+}
+
+.border {
+  border: solid 1px black;
+}
+
+.table {
+  height: 400px;
+  width: 400px;
+  border-spacing: 0px;
+}
+
+.one-row-table {
+  border-spacing: 0px;
+}
